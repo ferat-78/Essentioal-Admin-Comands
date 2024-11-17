@@ -1,0 +1,3 @@
+hostnamectl set-hostname
+cat /etc/os-release
+yum update && yum upgrade 
